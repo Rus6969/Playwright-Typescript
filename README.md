@@ -3,7 +3,6 @@
 # Playwright TypeScript Framework with Page Object Model
 
 
-
 Welcome to the Playwright TypeScript framework with a Page Object Model (POM) repository! This framework provides a robust structure for building clean and maintainable end-to-end web tests using Playwright and TypeScript. Whether you are new to Playwright or TypeScript, or you're looking to streamline your existing test automation projects, this framework has you covered.
 
 ## Features
