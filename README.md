@@ -45,5 +45,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 We'd like to express our gratitude to the Playwright and TypeScript communities for their fantastic tools and resources that make this project possible.
 ```
-
-You can copy and paste this markdown code into your project's README file on GitHub. Remember to replace "Your Project Logo or Screenshot" with an actual image link and customize the content to match your specific project details.
