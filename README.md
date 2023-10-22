@@ -1,4 +1,3 @@
-Certainly, here's the README in a markdown format suitable for GitHub:
 
 ```markdown
 # Playwright TypeScript Framework with Page Object Model
